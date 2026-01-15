@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1701" group-title="Live TV", Channel 1701 (High)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=2202800.m3u8
+
+#EXTINF:-1 tvg-id="1702" group-title="Live TV", Channel 1702 (High)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1998800.m3u8
+
+#EXTINF:-1 tvg-id="1703" group-title="Live TV", Channel 1703 (High)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
+
+#EXTINF:-1 tvg-id="1704" group-title="Live TV", Channel 1704 (Medium)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 tvg-id="1705" group-title="Live TV", Channel 1705 (Medium)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1181200.m3u8
+
+#EXTINF:-1 tvg-id="1706" group-title="Live TV", Channel 1706 (High)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706-audio_113362_eng=113200-video=2202800.m3u8
+
+#EXTINF:-1 tvg-id="1709" group-title="Live TV", Channel 1709 (High)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=2202800.m3u8
+
+#EXTINF:-1 tvg-id="1715" group-title="Live TV", Channel 1715 (Low)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=442000.m3u8
+
+#EXTINF:-1 tvg-id="1701_audio" group-title="Audio Only", Channel 1701 Audio
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200.m3u8
