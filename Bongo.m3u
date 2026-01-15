@@ -1,27 +1,63 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1701" group-title="Live TV", Channel 1701 (High)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=2202800.m3u8
+#EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="1702" group-title="Live TV", Channel 1702 (High)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1998800.m3u8
+# --- SPORTS CHANNELS ---
 
-#EXTINF:-1 tvg-id="1703" group-title="Live TV", Channel 1703 (High)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="T-Sports_1", T-Sports Server 1
+https://bongoflixbd.top/index.php?play=aHR0cHM6Ly9lZGdlMi5yb2Fyem9uZS5pbmZvOjg0NDQvcm9hcnpvbmUvZWRnZTIvdHNwb3J0cy90cmFja3MtdjFhMS9tb25vLm0zdTg/dG9rZW49M2RiNzc2ZDE3MzM1YWY5MTRjZDQ2MzlmNjEyNTM0OGM0MGZiMGExYS1jNjM2Mzc1MmZmYmExYmVmN2Y3MmJkNGJlN2VkYmJmNC0xNzY4NDcyMTc5LTE3Njg0Njg1Nzk=&user=bongoflix&pass=eaminvai
 
-#EXTINF:-1 tvg-id="1704" group-title="Live TV", Channel 1704 (Medium)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="T-Sports_2", T-Sports Server 2
+https://bongoflixbd.top/index.php?play=aHR0cHM6Ly9lZGdlMi5yb2Fyem9uZS5pbmZvOjg0NDQvcm9hcnpvbmUvZWRnZTIvdHNwb3J0cy90cmFja3MtdjFhMS9tb25vLm0zdTg/dG9rZW49MDEzMWJlZDQ0M2Q5Nzc4MjhkODBkYTY5ZWY2Njk2YjA2ODU4MjYxMS03ZjQ4YWJiZjVhNTBhMTY5ZjA2ZTEyNzM3ZTZlNmQwMS0xNzY4NDcyMTc1LTE3Njg0Njg1NzU=&user=bongoflix&pass=eaminvai
 
-#EXTINF:-1 tvg-id="1705" group-title="Live TV", Channel 1705 (Medium)
+#EXTINF:-1 group-title="Sports" tvg-name="T-Sports_3", T-Sports Server 3
+https://bongoflixbd.top/index.php?play=aHR0cHM6Ly9lZGdlMi5yb2Fyem9uZS5pbmZvOjg0NDQvcm9hcnpvbmUvZWRnZTIvdHNwb3J0cy90cmFja3MtdjFhMS9tb25vLm0zdTg/dG9rZW49ZTliZmUwNGEzYjQ4NTQwMmE4NTNmZDU1YWM1MTgyZTI2NmM0NzMxYS1hOTVjZTU3NGE2NGQyYTMwZDc4N2IzMjI4NzNiZTE4ZS0xNzY4NDcyMTc4LTE3Njg0Njg1Nzg=&user=bongoflix&pass=eaminvai
+
+#EXTINF:-1 group-title="Sports", Cricx TV Stream 1
+https://cricxtv.site/caretel/stream.php?id=18283d4f5f13c0cac5cab4433a0ed8f0&chunks=5cBHMf9TBlfWgmHu5xbhBpW9HtuLIpLtGo2oe4kJm769x5tmMnq6JgkAe37Arenhgt3jEc5SDmGZOYzu3bTZfVVCIrW3q7RiFVf7oC4xUOYj8Gm_som-KT0rbiFHRyj8ARU9fxWfpKBqPVeOgr-lLFHlhKDe48lQTz1Q_0AX61fVxZcvWH6Qh285mBS4tyANrrttJ-DQgm4NdDglSfFvoUCVUmp5OIbPG_GduiuITRgA7JxO3EpYVjPHisTsGQWC&e=.m3u8
+
+#EXTINF:-1 group-title="Sports", Cricx TV Stream 2
+https://cricxtv.site/caretel/stream.php?id=18283d4f5f13c0cac5cab4433a0ed8f0&chunks=5cBHMf9TBlfWgmHu5xbhBpW9HtuLIpLtGo2oe4kJm769x5tmMnq6JgkAe37Arenhgt3jEc5SDmGZOYzu3bTZfVerQDR7MTvYTZIueSAhhMH84vNlJwJFXILBKG1EgqyTKeBZQ-NmuFmRcGDHHht05kvZvz0IULZ6QZxVv3TFIKn-rOgKU3VLByv0oxDZr1A0IS_D0GnVrrcQQH_jLuBodND4dcbRzEYkjeIuRWisWugc2qWg3lP4VhzKhE4ajcMj&e=.m3u8
+
+# --- ENTERTAINMENT & MOVIES ---
+
+#EXTINF:-1 group-title="Entertainment", ShowBox HD (1080p)
+https://epiconvh.akamaized.net/live/showbox/master_1080.m3u8
+
+#EXTINF:-1 group-title="Entertainment", ShowBox SD (720p)
+https://epiconvh.akamaized.net/live/showbox/master_720.m3u8
+
+#EXTINF:-1 group-title="Entertainment", MeTV 1080p
+https://iptvbd.live/metv1080/1080.m3u8
+
+#EXTINF:-1 group-title="Entertainment", Deshi TV Live
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+# --- MUSIC ---
+
+#EXTINF:-1 group-title="Music", YRF Music HD (1080p)
+https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/ts-eu-w1-n2/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/cb543d197e6c678784cb376fcef343a7f94f1fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a645a4d14ab61dc7c02c6c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aaf6852db8602887b378aabde7144220806c3084d86f108f2bdb84240db6bbfb21a5a812d17b5d34b9cd61ca6d6d50d9d5e8777a714809ba283d00d82d3c56afb02b6365e5a2679ab6818f9bd35234eb3135bbe556a2c3c54e8a49fff4a39954f3133929dea8c15349753eb5fe54124b201e224ec894143d86c83e94fabacf9a82afa9795b63a425dcec1a88bf03473996fedabfad47c72db997cc2e9f81fba737842f5d9c3158fc25ff0dc47d4e4394d6a80f924ea48749a48f9571dbc5c843734006cb878434e68a74eab9b22ff21dc73a9f4dd40365469a2805cc88ad811652c1fc6c872dd1d0ea180cba2d10a29c5691f1ab13b997835449e643f2dac6dd88a2c608c110f871e34ef1760d315b2eb7ab5eff0cd32169992874ef664eaf52dd7f509a6247c7a0aa1fd215a0a1d2e82a0364366219011aa829cb237240feefec1fb8060390138055b43deb1b03ec8d8b2457771e05d22727b1913e4658f139c6a2d2f3ed911a1c8266495095b4ac597170f0a3fc78addac88d4c348b03fe3c7f2372a313b34eed364aaef111debf94543603e011462e23e21cc5e32aba5/73/1920x1080_5876488/index.m3u8
+
+#EXTINF:-1 group-title="Music", 9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8
+
+#EXTINF:-1 group-title="Music", Joo Music
+https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8?nimblesessionid=21589957
+
+# --- OTHERS & RELIGIOUS ---
+
+#EXTINF:-1 group-title="Religious", Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=_ecVac-4q0SlQZFnVU4uBA
+
+#EXTINF:-1 group-title="Bangla", Live Bangla HD
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+# --- GPCDN SERVER LINKS (Multi-Resolution) ---
+
+#EXTINF:-1 group-title="GPCDN", Channel 1723 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=2202800.m3u8
+
+#EXTINF:-1 group-title="GPCDN", Channel 1715 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=2202800.m3u8
+
+#EXTINF:-1 group-title="GPCDN", Channel 1705 SD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1181200.m3u8
-
-#EXTINF:-1 tvg-id="1706" group-title="Live TV", Channel 1706 (High)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706-audio_113362_eng=113200-video=2202800.m3u8
-
-#EXTINF:-1 tvg-id="1709" group-title="Live TV", Channel 1709 (High)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=2202800.m3u8
-
-#EXTINF:-1 tvg-id="1715" group-title="Live TV", Channel 1715 (Low)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=442000.m3u8
-
-#EXTINF:-1 tvg-id="1701_audio" group-title="Audio Only", Channel 1701 Audio
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200.m3u8
