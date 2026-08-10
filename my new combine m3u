@@ -1,0 +1,316 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="BTV National" tvg-logo="" group-title="SM All TV", BTV National
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel 1" tvg-logo="" group-title="SM All TV", Channel 1
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="" group-title="SM All TV", Somoy TV
+https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Jamuna TV" tvg-logo="" group-title="SM All TV", Jamuna TV
+https://stream.ottplus.live/live/jamuna_tv_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Maasranga TV" tvg-logo="" group-title="SM All TV", Maasranga TV
+https://mtv.sunplex.live/MAASRANGA/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel 24 HD" tvg-logo="" group-title="SM All TV", Channel 24 HD
+https://stream.ottplus.live/live/channel_24_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo="" group-title="SM All TV", ATN News
+https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="News 24 HD" tvg-logo="" group-title="SM All TV", News 24 HD
+https://stream.ottplus.live/live/channel_24_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel I HD" tvg-logo="" group-title="SM All TV", Channel I HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channeli-8-org.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bangla Vision" tvg-logo="" group-title="SM All TV", Bangla Vision
+https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Al Quran" tvg-logo="" group-title="SM All TV", Al Quran
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/independent-8-org.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Independent TV" tvg-logo="" group-title="SM All TV", Independent TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/independent-8-org.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel S UK" tvg-logo="" group-title="SM All TV", Channel S UK
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel Europe" tvg-logo="" group-title="SM All TV", Channel Europe
+https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="" group-title="SM All TV", Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Deshi TV" tvg-logo="" group-title="SM All TV", Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Deshe Bideshe" tvg-logo="" group-title="SM All TV", Deshe Bideshe
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="iON TV UK" tvg-logo="" group-title="SM All TV", iON TV UK
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/live-orgin/iontvuk.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Jago News 24" tvg-logo="" group-title="SM All TV", Jago News 24
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Asian TV" tvg-logo="" group-title="SM All TV", Asian TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="G TV" tvg-logo="" group-title="SM All TV", G TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Global TV" tvg-logo="" group-title="SM All TV", Global TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NRB HD" tvg-logo="" group-title="SM All TV", NRB HD
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Ayna TV" tvg-logo="" group-title="SM All TV", Ayna TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel 16" tvg-logo="" group-title="SM All TV", Channel 16
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sananda" tvg-logo="" group-title="SM All TV", Sananda
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/sanandatv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Mohona TV" tvg-logo="" group-title="SM All TV", Mohona TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rajdhani TV" tvg-logo="q_75,f_webp/KECGB54BuUSiBsg_dHyj/posters/58af9c58-ed80-458c-af13-cf381680cec6.png" group-title="SM All TV", Rajdhani TV
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Ekhon TV" tvg-logo="" group-title="SM All TV", Ekhon TV
+https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Mohona TV HD" tvg-logo="" group-title="SM All TV", Mohona TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NRB TV" tvg-logo="" group-title="SM All TV", NRB TV
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bangla Plus" tvg-logo="" group-title="SM All TV", Bangla Plus
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Enterr 10 Bangla" tvg-logo="" group-title="SM All TV", Enterr 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Deepto TV Alt" tvg-logo="" group-title="SM All TV", Deepto TV Alt
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Makkah TV" tvg-logo="" group-title="SM All TV", Makkah TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Music Bangla 2025" tvg-logo="" group-title="SM All TV", Music Bangla 2025
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla2025.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Citizen TV" tvg-logo="" group-title="SM All TV", Citizen TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/citizentv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="EP TV" tvg-logo="" group-title="SM All TV", EP TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD" tvg-logo="" group-title="SM All TV", Star Jalsha HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/155770.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="1531202" tvg-logo="" group-title="SM All TV", Channel 1531202
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1531202.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="" group-title="SM All TV", Colors Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Akash Aath" tvg-logo="" group-title="SM All TV", Akash Aath
+https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="" group-title="SM All TV", Zee Bangla
+https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Enterr10 Bangla" tvg-logo="" group-title="SM All TV", Enterr10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rongeen TV" tvg-logo="" group-title="SM All TV", Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Jhankar TV" tvg-logo="" group-title="SM All TV", Jhankar TV
+https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Enterr10 Bangla Amagi" tvg-logo="" group-title="SM All TV", Enterr10 Bangla Amagi
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Amar Bangla" tvg-logo="" group-title="SM All TV", Amar Bangla 🇮🇳
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Sonar" tvg-logo="" group-title="SM All TV", Zee Bangla Sonar
+https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Colors HD" tvg-logo="" group-title="SM All TV", Colors HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Kolkata TV" tvg-logo="" group-title="SM All TV", Kolkata TV
+https://cdn.ottlive.co.in/kolkatatv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV9 Bangla" tvg-logo="" group-title="SM All TV", TV9 Bangla
+https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Republic Bangla" tvg-logo="" group-title="SM All TV", Republic Bangla (NK)
+https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="" group-title="SM All TV", GNT
+https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY KAL" tvg-logo="" group-title="SM All TV", SONY KAL
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN sports Xtra HD" tvg-logo="" group-title="SM All TV", beIN sports Xtra HD
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN sports Xtra" tvg-logo="" group-title="SM All TV", beIN sports Xtra
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GOAL TV" tvg-logo="" group-title="SM All TV", GOAL TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Enter10 Bangla HD" tvg-logo="" group-title="SM All TV", Enter10 Bangla HD
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="R Plus Gold" tvg-logo="" group-title="SM All TV", R Plus Gold
+https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY AATH HD" tvg-logo="" group-title="SM All TV", SONY AATH HD
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IN | Calcutta News" tvg-logo="" group-title="SM All TV", IN | Calcutta News
+https://akdnetwork.co.in/live/cnnew/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IN | R Plus News" tvg-logo="" group-title="SM All TV", IN | R Plus News
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IN | Republic Bangla" tvg-logo="" group-title="SM All TV", IN | Republic Bangla
+https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/93d674ab-f7a0-404e-88b2-b4f163373dbe/0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IN | TV9 Bangla" tvg-logo="" group-title="SM All TV", IN | TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ENT | Dangal TV" tvg-logo="" group-title="SM All TV", ENT | Dangal TV
+https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ENT | DANGAL2" tvg-logo="" group-title="SM All TV", ENT | DANGAL2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ENT | DD Bharati" tvg-logo="" group-title="SM All TV", ENT | DD Bharati
+https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ENT | DD National HD" tvg-logo="" group-title="SM All TV", ENT | DD National HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ENT | DD URDU" tvg-logo="" group-title="SM All TV", ENT | DD URDU
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NEWS | Aaj Tak HD" tvg-logo="" group-title="SM All TV", NEWS | Aaj Tak HD
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NEWS | Aap Ki Adalat" tvg-logo="" group-title="SM All TV", NEWS | Aap Ki Adalat
+https://amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi-n5tuk.amagi.tv/playlist/amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NEWS | India Today" tvg-logo="" group-title="SM All TV", NEWS | India Today
+https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NEWS | India TV" tvg-logo="" group-title="SM All TV", NEWS | India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NEWS | NDTV English" tvg-logo="" group-title="SM All TV", NEWS | NDTV English
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NEWS | NDTV Hindi" tvg-logo="" group-title="SM All TV", NEWS | NDTV Hindi
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NEWS | News Nation" tvg-logo="" group-title="SM All TV", NEWS | News Nation
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NEWS | News24" tvg-logo="" group-title="SM All TV", NEWS | News24
+https://amg13643-amg13643c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c1-amgplt0016/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NEWS | Republic TV" tvg-logo="" group-title="SM All TV", NEWS | Republic TV
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NEWS | ZEE BUSINESS" tvg-logo="" group-title="SM All TV", NEWS | ZEE BUSINESS
+https://dwby15d04agvq.cloudfront.net/index_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Peace TV Bangla" tvg-logo="" group-title="SM All TV", Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Iqra Bangla" tvg-logo="" group-title="SM All TV", Iqra Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Quran TV" tvg-logo="" group-title="SM All TV", Quran TV
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="QURAN" tvg-logo="" group-title="SM All TV", QURAN Radio
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Azan Tv" tvg-logo="" group-title="SM All TV", Azan Tv
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Quran Live" tvg-logo="" group-title="SM All TV", Quran Live
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bangla Net" tvg-logo="" group-title="SM All TV", Radio Bangla Net
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC
+
+#EXTINF:-1 tvg-id="" tvg-name="BBC Bangla" tvg-logo="" group-title="SM All TV", BBC Bangla
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/cellular_main_sd_abr_v2/cfs/bbc_world_service.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Spice FM" tvg-logo="" group-title="SM All TV", Spice FM
+https://stream.spicefmbd.com/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Duronto TV" tvg-logo="" group-title="Cartoon", Duronto TV
+https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony YaY!" tvg-logo="" group-title="Cartoon", Sony YaY!
+https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="Cartoon", Discovery Kids
+https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Pogo" tvg-logo="" group-title="Cartoon", Pogo
+https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MINIMAX" tvg-logo="" group-title="Cartoon", MINIMAX
+https://s2.ideationtec.live/MiniMax/MiniMax.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MINI" tvg-logo="" group-title="Cartoon", MINI
+https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="Cartoon", Cartoon Network
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zoo Moo" tvg-logo="" group-title="Cartoon", Zoo Moo
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Motu Patlu" tvg-logo="" group-title="Cartoon", Motu Patlu
+https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Doraemon" tvg-logo="" group-title="Cartoon", Doraemon
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Oggy" tvg-logo="" group-title="Cartoon", Oggy
+https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Gopal Bhar" tvg-logo="" group-title="Cartoon", Gopal Bhar
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bantul The Great" tvg-logo="" group-title="Cartoon", Bantul The Great
+https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Tom & jary" tvg-logo="" group-title="Cartoon", Tom & jary
+https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Mr Bean" tvg-logo="" group-title="Cartoon", Mr Bean
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RONGEEN TV" tvg-logo="" group-title="Cartoon", RONGEEN TV
+https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
