@@ -238,7 +238,7 @@ https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Star_Bharat_2022.png" group-title="India", Star Bharat HD
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C301/master.m3u8
 #EXTINF:-1 tvg-id="StarJalsha" tvg-name="Star Jalsha HD" tvg-logo="https://i.imgur.com/jnU66aG.png" group-title="India",Star Jalsha HD
-https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="India",Hindi Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1 tvg-id="jalshamovies" tvg-name="Jalsha Movie" tvg-logo="https://i.imgur.com/lLhY3yS.jpeg" group-title="India",Jalsha Movie
