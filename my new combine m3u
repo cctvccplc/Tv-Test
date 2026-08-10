@@ -120,16 +120,16 @@ https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="1531202" tvg-logo="" group-title="SM All TV", Channel 1531202
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1531202.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="" group-title="SM All TV", Colors Bangla
+#EXTINF:-1 group-title="Indian-Bangla"  tvg-id="" tvg-name="Colors Bangla" tvg-logo="" group-title="SM All TV", Colors Bangla
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Akash Aath" tvg-logo="" group-title="SM All TV", Akash Aath
+#EXTINF:-1 group-title="Indian-Bangla"  tvg-id="" tvg-name="Akash Aath" tvg-logo="" group-title="SM All TV", Akash Aath
 https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="" group-title="SM All TV", Zee Bangla
+#EXTINF:-1 group-title="Indian-Bangla"  tvg-id="" tvg-name="Zee Bangla" tvg-logo="" group-title="SM All TV", Zee Bangla
 https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Enterr10 Bangla" tvg-logo="" group-title="SM All TV", Enterr10 Bangla
+#EXTINF:-1 group-title="Indian-Bangla"  tvg-id="" tvg-name="Enterr10 Bangla" tvg-logo="" group-title="SM All TV", Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Rongeen TV" tvg-logo="" group-title="SM All TV", Rongeen TV
